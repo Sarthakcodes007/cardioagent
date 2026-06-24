@@ -69,6 +69,8 @@ python scripts/ablation_study.py    # real-model, real-noise severity sweep on P
 See the paper (`paper/main.tex`) for full methodology, the noise-severity
 ablation study, and discussion of limitations.
 
+![Architecture](cardioagent_repo/Input Node.png)
+
 ## Important Note on LTAF Compatibility
 
 The LTAF Database uses non-standard ambulatory electrode channel labelling
